@@ -74,6 +74,7 @@ body, html {
     font-size: 3rem; /* Adjust the font size as needed */
     font-weight: bold;
     margin-bottom: 10px; /* Add spacing between the heading and subheading */
+    line-height: 1.3;
 }
 
 .custom-subheading {
