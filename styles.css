@@ -177,6 +177,14 @@ body, html {
         display: flex;
         justify-content: center;
     }
+
+    .first-page-div2 {
+        display: flex; /* Add display flex */
+        flex-direction: column; /* Change to column layout */
+        justify-content: top; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        padding: 20px; /* Add padding for spacing */
+    }
 }
 
 /*--------------------------------------------------------------
